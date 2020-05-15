@@ -1,0 +1,32 @@
+{
+  "name": "@vemlavaraloucagamers/awesome-consolelog",
+  "version": "1.0.0",
+  "description": "Printing the console.log in a magical way",
+  "main": "index.js",
+  "repository": "https://github.com/VemLavarALoucaGamers/awesome-consolelog.git",
+  "homepage": "https://vemlavaralouca.com.br",
+  "bugs": "https://github.com/VemLavarALoucaGamers/awesome-consolelog/issues",
+  "author": {
+    "name": "Tonhao Santos",
+    "email": "tonhaosantos@vemlavaralouca.com.br",
+    "url": "http://vemlavaralouca.com.br/tonhaosantos"
+  },
+  "contributors": [
+    {
+      "name": "FelipeCss",
+      "email": "felipecss@vemlavaralouca.com.br",
+      "url": "https://vemlavaralouca.com.br/felipecss"
+    }
+  ],
+  "keywords": [
+    "console",
+    "log",
+    "web",
+    "consolelog",
+    "print",
+    "magic",
+    "awesome"
+  ],
+  "license": "MIT",
+  "private": false
+}
