@@ -1,6 +1,6 @@
 {
   "name": "@vemlavaraloucagamers/awesome-consolelog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Printing the console.log in a magical way",
   "main": "index.js",
   "repository": "https://github.com/VemLavarALoucaGamers/awesome-consolelog.git",
