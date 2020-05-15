@@ -27,4 +27,4 @@ tiny("rainbow", msg);
 #### Sample image 1
 > rainbow type
 
-![Sample image 1](sampleimage1.png "Sample image 1")
+![Sample image 1](assets/sampleimage1.png "Sample image 1")
