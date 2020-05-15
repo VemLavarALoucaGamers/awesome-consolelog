@@ -1,8 +1,12 @@
 {
   "name": "@vemlavaraloucagamers/awesome-consolelog",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "Printing the console.log in a magical way",
-  "main": "src/index.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "webpack --config ./webpack.config.js --mode=production",
+    "prepare": "yarn build"
+  },
   "repository": "https://github.com/VemLavarALoucaGamers/awesome-consolelog.git",
   "homepage": "https://vemlavaralouca.com.br",
   "bugs": "https://github.com/VemLavarALoucaGamers/awesome-consolelog/issues",
@@ -28,5 +32,14 @@
     "awesome"
   ],
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.6",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
 }
