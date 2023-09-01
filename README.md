@@ -1,3 +1,7 @@
+# PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
+
+This package is deprecated, use the new version [Magic ConsoleLog](https://www.npmjs.com/package/@vlalg-nimbus/magic-consolelog)
+
 # awesome-consolelog
 
 ![npm](https://img.shields.io/npm/v/@vemlavaraloucagamers/awesome-consolelog)
